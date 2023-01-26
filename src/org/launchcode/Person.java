@@ -1,6 +1,6 @@
 package org.launchcode;
 
-public class Person {
+public abstract class Person {
     // firstName, lastName, hasClearance
     private String firstName;
     private String lastName;
